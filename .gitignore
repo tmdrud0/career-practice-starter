@@ -5,4 +5,4 @@ target/
 *.log
 .env
 _bootstrap/
-
+k8s/rendered-ghcr.yaml
